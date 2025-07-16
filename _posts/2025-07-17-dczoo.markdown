@@ -1,0 +1,11 @@
+---
+title: Washington, D.C. Zoo Trip
+date: 2025-07-15 18:00:00
+categories: [Wildlife]
+tags: [Canon EOS R8, EF 70-200 f/2.8L IS USM II]     # TAG names should always be lowercase
+author: levi
+description: Practicing with my new camera and lens.
+pin: false
+image:
+  path: /assets/img/images/DCpreview.jpeg
+---

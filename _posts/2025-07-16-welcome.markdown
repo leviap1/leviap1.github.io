@@ -1,0 +1,22 @@
+---
+title: Welcome to my website!
+date: 2025-07-15 14:00:00
+#categories: [Wildlife, Mammals]
+# tags: [Zebra]     # TAG names should always be lowercase
+author: levi
+description: A little bit about me, my interests, and the gear that I use.
+pin: true
+image:
+  path: assets/img/images/WLpreview.jpg
+---
+
+### About Me
+I am located in Redondo Beach, California. As of September 2025, I will be attending UCLA for two years to earn my bachelors degree in Political Science, with plans to attend law school after my undergraduate studies.<br>
+
+### Interests
+My interest in photography is mainly in wildlife. I'm extremely fascinated by animals and I believe that capturing them is really neat. I lack confidence in my ability to creatively capture landscape photography, and therefore, don't do it as much as I'd like to. <br> Aside from my interest in photography, I enjoy playing video games, hanging out with my family, and as of lately, studying and learning more about the Middle East.
+
+### Current Gear
+The camera body that I currently use is the Canon EOS R8. I've been pairing it with the RF 100-400 f/5.6-8 and the EF 24-105 f/4L (adapted).
+
+
